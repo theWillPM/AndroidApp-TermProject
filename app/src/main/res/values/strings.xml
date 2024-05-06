@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name_full">Will\'s World Currency Exchange</string>
+    <string name="app_name_short" translatable="false">WWCE</string>
+    <string name="author" translatable="false">Willian Pereira Munhoz</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="password_repeat">Repeat password</string>
+    <string name="email">Email</string>
+    <string name="password_forgot"><u>Forgot password?</u></string>
+    <string name="remember_me">Remember me?</string>
+    <string name="welcome">Welcome</string>
+    <string name="connect">Connect</string>
+    <string name="create_account">Create Account</string>
+    <string name="amount_to_convert">Amount to convert</string>
+    <string name="exchange_rate">Currency exchange rate</string>
+    <string name="converted_to">converted to</string>
+    <string name="add_currency">Add currency</string>
+    <string name="save_pdf">Save PDF</string>
+    <string name="your_presets">Your currency presets:</string>
+    <string name="add_new">Add new</string>
+    <string name="about">About</string>
+    <string name="legal">Legal</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="sign_out">Sign out</string>
+    <string name="notify_me">Notify me when:</string>
+    <string name="removed">removed</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="equals">=</string>
+    <string name="api" translatable="false">Powered by: ExchangeRate-API</string>
+    <string name="convert_to">Convert to:</string>
+    <string name="return_to">Return to Dashboard</string>
+    <string name="logout">Log out</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm_logout">Are you sure you want to log out?</string>
+    <string name="picture">User picture</string>
+    <string name="cancel">Cancel</string>
+    <string name="newAcc">New Account</string>
+    <string name="flag">Currency country\'s flag</string>
+    <string name="list">A list of all the user\'s added currencies</string>
+
+
+</resources>
